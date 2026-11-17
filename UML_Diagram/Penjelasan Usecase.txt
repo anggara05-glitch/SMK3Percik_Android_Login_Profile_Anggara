@@ -1,0 +1,1 @@
+Pengguna melakukan login dengan memasukkan username dan password yang telah terdaftar. Sistem akan memvalidasi data tersebut. Jika tidak sesuai, sistem menampilkan pesan kesalahan. Jika benar, pengguna dapat masuk ke aplikasi dan mengakses halaman profil.

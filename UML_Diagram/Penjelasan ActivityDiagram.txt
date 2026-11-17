@@ -1,0 +1,1 @@
+Proses dimulai saat pengguna membuka aplikasi dan memasukkan username serta password pada form login. Sistem kemudian memvalidasi data tersebut. Jika tidak valid, pengguna diminta mengulang login. Jika valid, sistem menampilkan halaman profil sebagai tanda bahwa pengguna berhasil masuk.
